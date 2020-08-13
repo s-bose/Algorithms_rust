@@ -33,7 +33,7 @@ fn quickselect(arr: &mut[i32], index: usize) -> i32 {
             return quickselect(&mut arr[0..pivot-1], index);
         }
         else {
-            return quickselect(&mut arr[pivot+1..], index - pivot);
+            return quickselect(&mut arr[pivot..], index - pivot);
         }
     }
 }
@@ -49,8 +49,8 @@ fn view_array(arr: &mut[i32]) {
 }
 
 fn main() {
-    let index: usize = 3;
-    let mut x = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+    let index: usize = 4;
+    let mut x = [9, 1, 2, 5, 3, 7, 4, 8, 6, 10];
     // println!("The random index is {}", random_partition(&mut x));
     println!("The {}-th order statistic is: {}", index, quickselect(&mut x, index));
     view_array(&mut x);
