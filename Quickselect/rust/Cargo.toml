@@ -8,5 +8,5 @@ edition = "2018"
 
 [dependencies]
 rand = "0.7.3"
-
+colored = "2.0.0"
 

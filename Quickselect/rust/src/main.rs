@@ -1,11 +1,11 @@
-use rand::Rng;
+use rand::{Rng, thread_rng};
+use rand::seq::SliceRandom;
 
-fn random_partition(arr: &mut[i32]) -> usize{
-    let rnd = rand::thread_rng().gen_range(0, arr.len());
-    let end = (arr.len() - 1) as usize;
-    arr.swap(rnd, end);
-    let mut i = 0;
-    for j in 0..end {
+
+
+fn partition(arr: &mut[i32], begin: usize, end: usize) -> usize {
+    let mut i = begin;
+    for j in begin..end {
         if arr[j] <= arr[end] {
             arr.swap(i, j);
             i += 1;
@@ -15,46 +15,53 @@ fn random_partition(arr: &mut[i32]) -> usize{
     return i;
 }
 
+fn random_partition(arr: &mut[i32], begin: usize, end: usize) -> usize {
+    let rnd_index = rand::thread_rng().gen_range(begin, end+1);
+    arr.swap(rnd_index, end);
+    return partition(arr, begin, end);
+}  
 
-fn quickselect(arr: &mut[i32], index: usize) -> i32 {
-    if arr.len() == 1 {
-        return arr[0];
+fn find_order_stat(arr: &mut[i32], begin: usize, end: usize, order: usize) -> i32 {
+    let count = end - begin + 1;
+    if order < begin || order > end {
+        println!("Please enter an order between {} and {}", begin, end);
+        return 0;
     }
-    else if arr.len() == 0 {
-        return -1;
+    else if count == 1 {
+        return arr[begin];
+    }
+
+    let pivot = random_partition(arr, begin, end);
+    if pivot == order {
+        // order stat found
+        println!("The {}-th order statistic is: {}", order, arr[pivot]);
+        return arr[pivot];
+    }
+    else if order < pivot {
+        return find_order_stat(arr, begin, pivot-1, order);
     }
     else {
-        let pivot = random_partition(arr);
-        println!("random pivot index {}", pivot);
-        if index == pivot {
-            return arr[pivot];
-        }
-        else if index < pivot {
-            return quickselect(&mut arr[0..pivot-1], index);
-        }
-        else {
-            return quickselect(&mut arr[pivot..], index - pivot);
-        }
+        return find_order_stat(arr, pivot, end, order);
     }
+
 }
 
-
-
-
-
-fn view_array(arr: &mut[i32]) {
-    for elem in arr.iter() {
-        print!("{} ", elem);
-    }
-}
 
 fn main() {
-    let index: usize = 4;
-    let mut x = [9, 1, 2, 5, 3, 7, 4, 8, 6, 10];
-    // println!("The random index is {}", random_partition(&mut x));
-    println!("The {}-th order statistic is: {}", index, quickselect(&mut x, index));
-    view_array(&mut x);
+    let mut arr: Vec<i32> = (10..21).collect();
+    arr.shuffle(&mut thread_rng());
+    println!("initial array: ");
+    display_array(&mut arr);
+    let end = arr.len() - 1;
+    random_partition(&mut arr, 0, end);
+
+    println!("{}", "\n\n\n");
+    find_order_stat(&mut arr, 0, end, 4);
 }
 
-
-
+fn display_array(arr: &mut[i32]) {
+    for x in arr {
+        print!("{} ", x);
+    }
+    println!();
+}
