@@ -1,3 +1,6 @@
+#ifndef _MARKSHEET_H_
+#define _MARKSHEET_H_
+
 #include <stdio.h>
 
 typedef struct _Student
@@ -6,9 +9,9 @@ typedef struct _Student
     int rollNumber;
     int marks[5];
     int subjectIndexes[5];
+    // index into UniversitySubjectList
 
-    int (*total_marks)(void *self);
-// index into UniversitySubjectList
+    int total_marks;
 
 } Student;
 
@@ -25,3 +28,6 @@ typedef struct _UniversityMarksheet
 } UniversityMarksheet;
 
 void PrintUniversityMarksheet(int totalMarksheets, UniversityMarksheet *marksheets);
+
+
+#endif

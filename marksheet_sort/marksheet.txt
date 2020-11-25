@@ -1,0 +1,297 @@
+sorted array
+
+Year: 2018, Semester: ODD
+--------------------------------------------------------------------------------
+Total Marks		Name of Student		Subject & Marks
+
+243			Arian				ENGLISH : 34
+							BENGALI : 75
+							MATHEMATICS : 65
+							COMPUTER SCIENCE : 34
+							STATISTICS : 35
+				
+
+257			Balbin				ENGLISH : 59
+							BENGALI : 44
+							MATHEMATICS : 44
+							COMPUTER SCIENCE : 53
+							STATISTICS : 57
+				
+
+283			Olimpia				ENGLISH : 41
+							BENGALI : 88
+							MATHEMATICS : 52
+							COMPUTER SCIENCE : 61
+							STATISTICS : 41
+				
+
+310			Anant				ENGLISH : 71
+							BENGALI : 30
+							MATHEMATICS : 66
+							COMPUTER SCIENCE : 95
+							STATISTICS : 48
+				
+
+320			Wardell				ENGLISH : 79
+							BENGALI : 76
+							MATHEMATICS : 73
+							COMPUTER SCIENCE : 60
+							STATISTICS : 32
+				
+
+329			Benjámin				ENGLISH : 98
+							BENGALI : 41
+							MATHEMATICS : 86
+							COMPUTER SCIENCE : 72
+							STATISTICS : 32
+				
+
+329			Ragnar				ENGLISH : 47
+							BENGALI : 61
+							MATHEMATICS : 99
+							COMPUTER SCIENCE : 54
+							STATISTICS : 68
+				
+
+342			Martyn				ENGLISH : 92
+							BENGALI : 34
+							MATHEMATICS : 75
+							COMPUTER SCIENCE : 69
+							STATISTICS : 72
+				
+
+345			Hasan				ENGLISH : 79
+							BENGALI : 35
+							MATHEMATICS : 91
+							COMPUTER SCIENCE : 47
+							STATISTICS : 93
+				
+
+353			Nur				ENGLISH : 64
+							BENGALI : 54
+							MATHEMATICS : 91
+							COMPUTER SCIENCE : 70
+							STATISTICS : 74
+				
+
+Year: 2018, Semester: EVEN
+--------------------------------------------------------------------------------
+Total Marks		Name of Student		Subject & Marks
+
+263			Svante				ENGLISH : 70
+							BENGALI : 36
+							MATHEMATICS : 47
+							COMPUTER SCIENCE : 68
+							STATISTICS : 42
+				
+
+288			Dannie				ENGLISH : 42
+							BENGALI : 79
+							MATHEMATICS : 41
+							COMPUTER SCIENCE : 46
+							STATISTICS : 80
+				
+
+334			Asim				ENGLISH : 76
+							BENGALI : 94
+							MATHEMATICS : 80
+							COMPUTER SCIENCE : 36
+							STATISTICS : 48
+				
+
+358			Mariju				ENGLISH : 55
+							BENGALI : 64
+							MATHEMATICS : 64
+							COMPUTER SCIENCE : 75
+							STATISTICS : 100
+				
+
+366			Colomb				ENGLISH : 96
+							BENGALI : 69
+							MATHEMATICS : 41
+							COMPUTER SCIENCE : 96
+							STATISTICS : 64
+				
+
+372			Dean				ENGLISH : 85
+							BENGALI : 97
+							MATHEMATICS : 63
+							COMPUTER SCIENCE : 97
+							STATISTICS : 30
+				
+
+374			Maruf				ENGLISH : 75
+							BENGALI : 57
+							MATHEMATICS : 93
+							COMPUTER SCIENCE : 50
+							STATISTICS : 99
+				
+
+380			Nydia				ENGLISH : 89
+							BENGALI : 83
+							MATHEMATICS : 50
+							COMPUTER SCIENCE : 78
+							STATISTICS : 80
+				
+
+388			Vlady				ENGLISH : 90
+							BENGALI : 70
+							MATHEMATICS : 80
+							COMPUTER SCIENCE : 74
+							STATISTICS : 74
+				
+
+390			Zeki				ENGLISH : 98
+							BENGALI : 96
+							MATHEMATICS : 76
+							COMPUTER SCIENCE : 41
+							STATISTICS : 79
+				
+
+Year: 2019, Semester: ODD
+--------------------------------------------------------------------------------
+Total Marks		Name of Student		Subject & Marks
+
+259			Atifa				ENGLISH : 54
+							BENGALI : 33
+							MATHEMATICS : 64
+							COMPUTER SCIENCE : 69
+							STATISTICS : 39
+				
+
+313			Helena				ENGLISH : 35
+							BENGALI : 94
+							MATHEMATICS : 60
+							COMPUTER SCIENCE : 32
+							STATISTICS : 92
+				
+
+319			Zahir				ENGLISH : 48
+							BENGALI : 93
+							MATHEMATICS : 70
+							COMPUTER SCIENCE : 67
+							STATISTICS : 41
+				
+
+320			Juhana				ENGLISH : 36
+							BENGALI : 89
+							MATHEMATICS : 53
+							COMPUTER SCIENCE : 98
+							STATISTICS : 44
+				
+
+322			Aura				ENGLISH : 40
+							BENGALI : 97
+							MATHEMATICS : 89
+							COMPUTER SCIENCE : 40
+							STATISTICS : 56
+				
+
+326			Ove				ENGLISH : 75
+							BENGALI : 60
+							MATHEMATICS : 44
+							COMPUTER SCIENCE : 79
+							STATISTICS : 68
+				
+
+327			Rufus				ENGLISH : 70
+							BENGALI : 58
+							MATHEMATICS : 72
+							COMPUTER SCIENCE : 58
+							STATISTICS : 69
+				
+
+350			Adlai				ENGLISH : 86
+							BENGALI : 69
+							MATHEMATICS : 85
+							COMPUTER SCIENCE : 51
+							STATISTICS : 59
+				
+
+362			Bryn				ENGLISH : 73
+							BENGALI : 77
+							MATHEMATICS : 81
+							COMPUTER SCIENCE : 35
+							STATISTICS : 96
+				
+
+366			Rudolf				ENGLISH : 88
+							BENGALI : 54
+							MATHEMATICS : 68
+							COMPUTER SCIENCE : 56
+							STATISTICS : 100
+				
+
+Year: 2019, Semester: EVEN
+--------------------------------------------------------------------------------
+Total Marks		Name of Student		Subject & Marks
+
+306			Colby				ENGLISH : 35
+							BENGALI : 95
+							MATHEMATICS : 68
+							COMPUTER SCIENCE : 58
+							STATISTICS : 50
+				
+
+314			Koios				ENGLISH : 89
+							BENGALI : 74
+							MATHEMATICS : 83
+							COMPUTER SCIENCE : 32
+							STATISTICS : 36
+				
+
+319			Imani				ENGLISH : 68
+							BENGALI : 48
+							MATHEMATICS : 61
+							COMPUTER SCIENCE : 60
+							STATISTICS : 82
+				
+
+321			Julia				ENGLISH : 31
+							BENGALI : 34
+							MATHEMATICS : 94
+							COMPUTER SCIENCE : 98
+							STATISTICS : 64
+				
+
+348			Martin				ENGLISH : 66
+							BENGALI : 36
+							MATHEMATICS : 94
+							COMPUTER SCIENCE : 100
+							STATISTICS : 52
+				
+
+353			Florin				ENGLISH : 56
+							BENGALI : 78
+							MATHEMATICS : 31
+							COMPUTER SCIENCE : 99
+							STATISTICS : 89
+				
+
+355			Gabe				ENGLISH : 40
+							BENGALI : 86
+							MATHEMATICS : 84
+							COMPUTER SCIENCE : 84
+							STATISTICS : 61
+				
+
+362			Orvar				ENGLISH : 34
+							BENGALI : 96
+							MATHEMATICS : 84
+							COMPUTER SCIENCE : 67
+							STATISTICS : 81
+				
+
+391			Ferhat				ENGLISH : 70
+							BENGALI : 79
+							MATHEMATICS : 89
+							COMPUTER SCIENCE : 54
+							STATISTICS : 99
+				
+
+408			Dhrub				ENGLISH : 96
+							BENGALI : 60
+							MATHEMATICS : 95
+							COMPUTER SCIENCE : 64
+							STATISTICS : 93
+				
