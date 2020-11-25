@@ -33,10 +33,6 @@ int compare_student(const void *lhs, const void *rhs)
         first_s->total_marks > second_s->total_marks ? 1 :
         strcmp(first_s->name, second_s->name)
     );
-    // if (first_s->total_marks != second_s->total_marks)
-    //     return (first_s->total_marks - second_s->total_marks);
-    // else
-    //     return strcmp(first_s->name, second_s->name);
 }
 
 
@@ -104,8 +100,6 @@ int main()
 
     
     shuffle(marksheetArray, 4);
-    // for (int i = 0; i < 4; ++i)
-    //     printf("%d --- %s\n", marksheetArray[i].academicYear, marksheetArray[i].semester ? "ODD" : "EVEN");
 
     printf("%s\n", "sorted array");
     PrintUniversityMarksheet(4, marksheetArray);

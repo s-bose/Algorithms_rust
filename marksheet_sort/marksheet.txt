@@ -4,294 +4,294 @@ Year: 2018, Semester: ODD
 --------------------------------------------------------------------------------
 Total Marks		Name of Student		Subject & Marks
 
-243			Arian				ENGLISH : 34
-							BENGALI : 75
-							MATHEMATICS : 65
-							COMPUTER SCIENCE : 34
-							STATISTICS : 35
+164			Anant				ENGLISH : 4
+							BENGALI : 9
+							MATHEMATICS : 31
+							COMPUTER SCIENCE : 45
+							STATISTICS : 75
 				
 
-257			Balbin				ENGLISH : 59
-							BENGALI : 44
+191			Nur				ENGLISH : 13
+							BENGALI : 65
+							MATHEMATICS : 14
+							COMPUTER SCIENCE : 63
+							STATISTICS : 36
+				
+
+193			Martyn				ENGLISH : 66
+							BENGALI : 49
+							MATHEMATICS : 24
+							COMPUTER SCIENCE : 1
+							STATISTICS : 53
+				
+
+208			Olimpia				ENGLISH : 69
+							BENGALI : 15
+							MATHEMATICS : 94
+							COMPUTER SCIENCE : 29
+							STATISTICS : 1
+				
+
+217			Benjámin				ENGLISH : 37
+							BENGALI : 38
 							MATHEMATICS : 44
-							COMPUTER SCIENCE : 53
-							STATISTICS : 57
+							COMPUTER SCIENCE : 1
+							STATISTICS : 97
 				
 
-283			Olimpia				ENGLISH : 41
-							BENGALI : 88
-							MATHEMATICS : 52
-							COMPUTER SCIENCE : 61
-							STATISTICS : 41
+228			Ragnar				ENGLISH : 23
+							BENGALI : 5
+							MATHEMATICS : 82
+							COMPUTER SCIENCE : 52
+							STATISTICS : 66
 				
 
-310			Anant				ENGLISH : 71
-							BENGALI : 30
-							MATHEMATICS : 66
-							COMPUTER SCIENCE : 95
-							STATISTICS : 48
+248			Hasan				ENGLISH : 8
+							BENGALI : 28
+							MATHEMATICS : 33
+							COMPUTER SCIENCE : 98
+							STATISTICS : 81
 				
 
-320			Wardell				ENGLISH : 79
-							BENGALI : 76
-							MATHEMATICS : 73
-							COMPUTER SCIENCE : 60
-							STATISTICS : 32
+253			Wardell				ENGLISH : 95
+							BENGALI : 5
+							MATHEMATICS : 4
+							COMPUTER SCIENCE : 51
+							STATISTICS : 98
 				
 
-329			Benjámin				ENGLISH : 98
-							BENGALI : 41
-							MATHEMATICS : 86
-							COMPUTER SCIENCE : 72
-							STATISTICS : 32
+297			Arian				ENGLISH : 28
+							BENGALI : 37
+							MATHEMATICS : 58
+							COMPUTER SCIENCE : 77
+							STATISTICS : 97
 				
 
-329			Ragnar				ENGLISH : 47
-							BENGALI : 61
+319			Balbin				ENGLISH : 98
+							BENGALI : 42
 							MATHEMATICS : 99
-							COMPUTER SCIENCE : 54
-							STATISTICS : 68
-				
-
-342			Martyn				ENGLISH : 92
-							BENGALI : 34
-							MATHEMATICS : 75
-							COMPUTER SCIENCE : 69
-							STATISTICS : 72
-				
-
-345			Hasan				ENGLISH : 79
-							BENGALI : 35
-							MATHEMATICS : 91
-							COMPUTER SCIENCE : 47
-							STATISTICS : 93
-				
-
-353			Nur				ENGLISH : 64
-							BENGALI : 54
-							MATHEMATICS : 91
-							COMPUTER SCIENCE : 70
-							STATISTICS : 74
+							COMPUTER SCIENCE : 68
+							STATISTICS : 12
 				
 
 Year: 2018, Semester: EVEN
 --------------------------------------------------------------------------------
 Total Marks		Name of Student		Subject & Marks
 
-263			Svante				ENGLISH : 70
-							BENGALI : 36
-							MATHEMATICS : 47
-							COMPUTER SCIENCE : 68
-							STATISTICS : 42
+148			Mariju				ENGLISH : 26
+							BENGALI : 12
+							MATHEMATICS : 67
+							COMPUTER SCIENCE : 10
+							STATISTICS : 33
 				
 
-288			Dannie				ENGLISH : 42
+150			Colomb				ENGLISH : 12
+							BENGALI : 3
+							MATHEMATICS : 69
+							COMPUTER SCIENCE : 9
+							STATISTICS : 57
+				
+
+163			Vlady				ENGLISH : 57
+							BENGALI : 1
+							MATHEMATICS : 53
+							COMPUTER SCIENCE : 8
+							STATISTICS : 44
+				
+
+188			Asim				ENGLISH : 42
+							BENGALI : 87
+							MATHEMATICS : 3
+							COMPUTER SCIENCE : 27
+							STATISTICS : 29
+				
+
+215			Zeki				ENGLISH : 78
+							BENGALI : 23
+							MATHEMATICS : 9
+							COMPUTER SCIENCE : 40
+							STATISTICS : 65
+				
+
+243			Dannie				ENGLISH : 90
+							BENGALI : 24
+							MATHEMATICS : 96
+							COMPUTER SCIENCE : 30
+							STATISTICS : 3
+				
+
+261			Dean				ENGLISH : 33
+							BENGALI : 99
+							MATHEMATICS : 78
+							COMPUTER SCIENCE : 16
+							STATISTICS : 35
+				
+
+282			Maruf				ENGLISH : 49
+							BENGALI : 73
+							MATHEMATICS : 58
+							COMPUTER SCIENCE : 30
+							STATISTICS : 72
+				
+
+285			Nydia				ENGLISH : 36
+							BENGALI : 85
+							MATHEMATICS : 45
+							COMPUTER SCIENCE : 28
+							STATISTICS : 91
+				
+
+288			Svante				ENGLISH : 49
 							BENGALI : 79
-							MATHEMATICS : 41
-							COMPUTER SCIENCE : 46
-							STATISTICS : 80
-				
-
-334			Asim				ENGLISH : 76
-							BENGALI : 94
-							MATHEMATICS : 80
-							COMPUTER SCIENCE : 36
-							STATISTICS : 48
-				
-
-358			Mariju				ENGLISH : 55
-							BENGALI : 64
-							MATHEMATICS : 64
-							COMPUTER SCIENCE : 75
-							STATISTICS : 100
-				
-
-366			Colomb				ENGLISH : 96
-							BENGALI : 69
-							MATHEMATICS : 41
-							COMPUTER SCIENCE : 96
-							STATISTICS : 64
-				
-
-372			Dean				ENGLISH : 85
-							BENGALI : 97
-							MATHEMATICS : 63
-							COMPUTER SCIENCE : 97
-							STATISTICS : 30
-				
-
-374			Maruf				ENGLISH : 75
-							BENGALI : 57
-							MATHEMATICS : 93
-							COMPUTER SCIENCE : 50
-							STATISTICS : 99
-				
-
-380			Nydia				ENGLISH : 89
-							BENGALI : 83
-							MATHEMATICS : 50
-							COMPUTER SCIENCE : 78
-							STATISTICS : 80
-				
-
-388			Vlady				ENGLISH : 90
-							BENGALI : 70
-							MATHEMATICS : 80
-							COMPUTER SCIENCE : 74
-							STATISTICS : 74
-				
-
-390			Zeki				ENGLISH : 98
-							BENGALI : 96
-							MATHEMATICS : 76
-							COMPUTER SCIENCE : 41
-							STATISTICS : 79
+							MATHEMATICS : 21
+							COMPUTER SCIENCE : 67
+							STATISTICS : 72
 				
 
 Year: 2019, Semester: ODD
 --------------------------------------------------------------------------------
 Total Marks		Name of Student		Subject & Marks
 
-259			Atifa				ENGLISH : 54
-							BENGALI : 33
-							MATHEMATICS : 64
-							COMPUTER SCIENCE : 69
-							STATISTICS : 39
+127			Rudolf				ENGLISH : 15
+							BENGALI : 25
+							MATHEMATICS : 34
+							COMPUTER SCIENCE : 42
+							STATISTICS : 11
 				
 
-313			Helena				ENGLISH : 35
-							BENGALI : 94
-							MATHEMATICS : 60
-							COMPUTER SCIENCE : 32
-							STATISTICS : 92
+155			Bryn				ENGLISH : 47
+							BENGALI : 25
+							MATHEMATICS : 10
+							COMPUTER SCIENCE : 62
+							STATISTICS : 11
 				
 
-319			Zahir				ENGLISH : 48
-							BENGALI : 93
-							MATHEMATICS : 70
-							COMPUTER SCIENCE : 67
-							STATISTICS : 41
-				
-
-320			Juhana				ENGLISH : 36
-							BENGALI : 89
-							MATHEMATICS : 53
-							COMPUTER SCIENCE : 98
-							STATISTICS : 44
-				
-
-322			Aura				ENGLISH : 40
-							BENGALI : 97
-							MATHEMATICS : 89
-							COMPUTER SCIENCE : 40
-							STATISTICS : 56
-				
-
-326			Ove				ENGLISH : 75
-							BENGALI : 60
-							MATHEMATICS : 44
-							COMPUTER SCIENCE : 79
+240			Zahir				ENGLISH : 85
+							BENGALI : 23
+							MATHEMATICS : 20
+							COMPUTER SCIENCE : 44
 							STATISTICS : 68
 				
 
-327			Rufus				ENGLISH : 70
-							BENGALI : 58
-							MATHEMATICS : 72
-							COMPUTER SCIENCE : 58
+260			Atifa				ENGLISH : 17
+							BENGALI : 72
+							MATHEMATICS : 39
+							COMPUTER SCIENCE : 47
+							STATISTICS : 85
+				
+
+266			Rufus				ENGLISH : 77
+							BENGALI : 61
+							MATHEMATICS : 25
+							COMPUTER SCIENCE : 35
+							STATISTICS : 68
+				
+
+273			Helena				ENGLISH : 89
+							BENGALI : 7
+							MATHEMATICS : 15
+							COMPUTER SCIENCE : 93
 							STATISTICS : 69
 				
 
-350			Adlai				ENGLISH : 86
-							BENGALI : 69
-							MATHEMATICS : 85
-							COMPUTER SCIENCE : 51
-							STATISTICS : 59
+287			Juhana				ENGLISH : 76
+							BENGALI : 67
+							MATHEMATICS : 39
+							COMPUTER SCIENCE : 74
+							STATISTICS : 31
 				
 
-362			Bryn				ENGLISH : 73
-							BENGALI : 77
-							MATHEMATICS : 81
-							COMPUTER SCIENCE : 35
+305			Adlai				ENGLISH : 15
+							BENGALI : 91
+							MATHEMATICS : 33
+							COMPUTER SCIENCE : 69
+							STATISTICS : 97
+				
+
+305			Aura				ENGLISH : 52
+							BENGALI : 44
+							MATHEMATICS : 95
+							COMPUTER SCIENCE : 18
 							STATISTICS : 96
 				
 
-366			Rudolf				ENGLISH : 88
-							BENGALI : 54
-							MATHEMATICS : 68
-							COMPUTER SCIENCE : 56
-							STATISTICS : 100
+311			Ove				ENGLISH : 1
+							BENGALI : 72
+							MATHEMATICS : 60
+							COMPUTER SCIENCE : 94
+							STATISTICS : 84
 				
 
 Year: 2019, Semester: EVEN
 --------------------------------------------------------------------------------
 Total Marks		Name of Student		Subject & Marks
 
-306			Colby				ENGLISH : 35
-							BENGALI : 95
-							MATHEMATICS : 68
-							COMPUTER SCIENCE : 58
-							STATISTICS : 50
+120			Imani				ENGLISH : 60
+							BENGALI : 5
+							MATHEMATICS : 26
+							COMPUTER SCIENCE : 23
+							STATISTICS : 6
 				
 
-314			Koios				ENGLISH : 89
-							BENGALI : 74
-							MATHEMATICS : 83
-							COMPUTER SCIENCE : 32
-							STATISTICS : 36
+205			Koios				ENGLISH : 30
+							BENGALI : 6
+							MATHEMATICS : 62
+							COMPUTER SCIENCE : 42
+							STATISTICS : 65
 				
 
-319			Imani				ENGLISH : 68
-							BENGALI : 48
-							MATHEMATICS : 61
-							COMPUTER SCIENCE : 60
-							STATISTICS : 82
-				
-
-321			Julia				ENGLISH : 31
-							BENGALI : 34
-							MATHEMATICS : 94
-							COMPUTER SCIENCE : 98
-							STATISTICS : 64
-				
-
-348			Martin				ENGLISH : 66
-							BENGALI : 36
-							MATHEMATICS : 94
-							COMPUTER SCIENCE : 100
-							STATISTICS : 52
-				
-
-353			Florin				ENGLISH : 56
-							BENGALI : 78
+217			Ferhat				ENGLISH : 1
+							BENGALI : 90
 							MATHEMATICS : 31
-							COMPUTER SCIENCE : 99
-							STATISTICS : 89
+							COMPUTER SCIENCE : 38
+							STATISTICS : 57
 				
 
-355			Gabe				ENGLISH : 40
-							BENGALI : 86
-							MATHEMATICS : 84
-							COMPUTER SCIENCE : 84
-							STATISTICS : 61
+247			Dhrub				ENGLISH : 52
+							BENGALI : 67
+							MATHEMATICS : 21
+							COMPUTER SCIENCE : 95
+							STATISTICS : 12
 				
 
-362			Orvar				ENGLISH : 34
-							BENGALI : 96
-							MATHEMATICS : 84
-							COMPUTER SCIENCE : 67
-							STATISTICS : 81
+250			Julia				ENGLISH : 90
+							BENGALI : 40
+							MATHEMATICS : 79
+							COMPUTER SCIENCE : 35
+							STATISTICS : 6
 				
 
-391			Ferhat				ENGLISH : 70
-							BENGALI : 79
-							MATHEMATICS : 89
+255			Orvar				ENGLISH : 34
+							BENGALI : 26
+							MATHEMATICS : 94
+							COMPUTER SCIENCE : 63
+							STATISTICS : 38
+				
+
+266			Gabe				ENGLISH : 70
+							BENGALI : 38
+							MATHEMATICS : 94
+							COMPUTER SCIENCE : 20
+							STATISTICS : 44
+				
+
+269			Colby				ENGLISH : 90
+							BENGALI : 50
+							MATHEMATICS : 59
+							COMPUTER SCIENCE : 23
+							STATISTICS : 47
+				
+
+289			Martin				ENGLISH : 98
+							BENGALI : 95
+							MATHEMATICS : 19
 							COMPUTER SCIENCE : 54
-							STATISTICS : 99
+							STATISTICS : 23
 				
 
-408			Dhrub				ENGLISH : 96
-							BENGALI : 60
-							MATHEMATICS : 95
-							COMPUTER SCIENCE : 64
-							STATISTICS : 93
+322			Florin				ENGLISH : 57
+							BENGALI : 94
+							MATHEMATICS : 8
+							COMPUTER SCIENCE : 95
+							STATISTICS : 68
 				

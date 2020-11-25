@@ -12,7 +12,7 @@ int *generate_random_marks()
 {
     int* marks = (int *)malloc(sizeof(int) * NUM_SUBJ);
     for (int i = 0; i < 5; i++)
-        marks[i] = (rand() % (100 - 30 + 1)) + 30;
+        marks[i] = rand() % 100;
 
     return marks;
 }
