@@ -10,9 +10,6 @@ typedef struct _Student
     int marks[5];
     int subjectIndexes[5];
     // index into UniversitySubjectList
-
-    int total_marks;
-
 } Student;
 
 typedef enum _Semester { EVEN, ODD } Semester;

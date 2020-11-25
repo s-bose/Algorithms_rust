@@ -27,10 +27,10 @@ int *generate_subject_idx()
 }
 
 
-int total_marks(Student *student)
+int total_marks(const Student *student)
 {
     int sum = 0;
-    for (int i = 0; i < 5; ++i)
+    for (int i = 0; i < NUM_SUBJ; ++i)
         sum += student->marks[i];
     return sum;
 }
