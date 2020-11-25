@@ -10,6 +10,10 @@
 
 int *generate_random_marks()
 {
+    /*
+        function to generate an array of 5 random marks 
+        from 0 to 100 for each student
+    */
     int* marks = (int *)malloc(sizeof(int) * NUM_SUBJ);
     for (int i = 0; i < 5; i++)
         marks[i] = rand() % 100;
@@ -29,6 +33,7 @@ int *generate_subject_idx()
 
 int total_marks(const Student *student)
 {
+    // compute total marks for each student
     int sum = 0;
     for (int i = 0; i < NUM_SUBJ; ++i)
         sum += student->marks[i];
@@ -37,6 +42,7 @@ int total_marks(const Student *student)
 
 void shuffle(UniversityMarksheet *array, size_t n)
 {
+    // a small utility function made to shuffle the marksheet array before sorting
     if (n > 1) 
     {
         size_t i;

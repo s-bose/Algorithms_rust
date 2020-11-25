@@ -11,14 +11,15 @@ extern char *random_names[4][10];
 
 int compare_marksheet(const void *lhs, const void *rhs)
 {
-    const UniversityMarksheet *first = lhs;
-    const UniversityMarksheet *second = rhs;
+    const UniversityMarksheet *first = (UniversityMarksheet *)lhs;
+    const UniversityMarksheet *second = (UniversityMarksheet *)rhs;
 
     if (first->academicYear != second->academicYear) 
-        return (first->academicYear - second->academicYear);
+        return (first->academicYear - second->academicYear);    // if -ve, first comes first, else second
     else
     //  same academic year
-        return (second->semester - first->semester);
+        return (second->semester - first->semester);            // if -ve, i.e, second's sem is odd
+                                                                // the odd comes first, else even comes first
 }
 
 int compare_student(const void *lhs, const void *rhs)
@@ -27,24 +28,42 @@ int compare_student(const void *lhs, const void *rhs)
     const Student *second_s = rhs;
 
     return (
-        total_marks(first_s) < total_marks(second_s) ? -1 :
+        total_marks(first_s) < total_marks(second_s) ? -1 :     
         total_marks(first_s) > total_marks(second_s) ? 1 :
-        strcmp(first_s->name, second_s->name)
+        strcmp(first_s->name, second_s->name)                   // if tie in total_marks, sort by names
     );
 }
 
 
 void PrintUniversityMarksheet(int totalMarksheets, UniversityMarksheet *marksheets)
 {
-    qsort(marksheets, totalMarksheets, sizeof(UniversityMarksheet), compare_marksheet);
+    // first sort the marksheet array based on year and semester
+    qsort(
+        marksheets, 
+        totalMarksheets, 
+        sizeof(UniversityMarksheet), 
+        compare_marksheet
+    );
+
     for (int idx = 0; idx < totalMarksheets; ++idx)
     {
-        qsort(marksheets[idx].arrayStudents, marksheets[idx].totalStudents, sizeof(Student), compare_student);
+        // sort the array of students based on total marks and name
+        qsort(
+            marksheets[idx].arrayStudents, 
+            marksheets[idx].totalStudents, 
+            sizeof(Student), 
+            compare_student
+        );
     }
 
     for (int i = 0; i < totalMarksheets; ++i)
     {
-        printf("\nYear: %d, Semester: %s\n", marksheets[i].academicYear, marksheets[i].semester ? "ODD" : "EVEN");
+        printf(
+            "\nYear: %d, Semester: %s\n", 
+            marksheets[i].academicYear, 
+            marksheets[i].semester ? "ODD" : "EVEN"
+        );
+
         for (int i = 0; i < 80; i++)
             printf("%c", '-');
 
