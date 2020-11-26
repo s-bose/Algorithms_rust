@@ -87,15 +87,12 @@ int main()
         arr[i] = rand() % rgb_max;
     }
     printf("%s\n", "Original rgb array");
-
     printArray(arr, 10);
-
     heapSort(arr, 10);    
-
-    printf("%s\n", "greyscale array: ");
-    
+    printf("Sorted array:\n");
+    printArray(arr, 10);
+    printf("%s\n", "greyscale array: "); 
     printArrayGrey(arr, 10);
-
     return 0;
 }
 
