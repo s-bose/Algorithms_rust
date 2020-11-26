@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <string.h>
+
 
 int min(int x, int y, int z)
 {
@@ -24,25 +26,37 @@ void editDistance(char *str1, char *str2, int size1, int size2)
         }
     }
 
+    printf(" \n\t# -");
+    for (int j = 0; j < size2; j++)
+        printf(" %c -", str2[j]);
+    printf("\n");
+    printf("\n------------------------------------------------------------------\n");
+
     for (int i = 0; i <= size1; i++)
     {
+        printf(" %c -  ", i == 0 ? '#' : str1[i-1]);
         for (int j = 0; j <= size2; j++)
-            printf("%d ", table[i][j]);
-        printf("\n");
+            printf(" %d -", table[i][j]);
+        printf("\n------------------------------------------------------------------\n");
     }
+    // for (int i = 0; i <= size1; i++)
+    // {
+    //     for (int j = 0; j <= size2; j++)
+    //         printf("%d ", table[i][j]);
+    //     printf("\n");
+    // }
 }
+
 
 
 int main()
 {
+    size_t max_size = 100;
     char *str1, *str2;
-    getline(&str1, 50, stdin);
-    getline(&str2, 50, stdin);
+    getline(&str1, &max_size, stdin);
+    getline(&str2, &max_size, stdin);
+    // printf("%ld  %ld\n", strlen(str1) - 1, strlen(str2) - 1);
 
-    char str1[] = "hello";
-    char str2[] = "b";
-    int size1 = sizeof(str1) / sizeof(str1[0]) - 1;
-    int size2 = sizeof(str2) / sizeof(str2[0]) - 1; 
-    editDistance(str1, str2, size1, size2);
+    editDistance(str1, str2, strlen(str1) - 1, strlen(str2) - 1);
     return 0;
 }
